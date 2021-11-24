@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 To attain and maintain a high degree of professionalism and contribute significantly to the organizational growth and development through diverse skills while providing innovative solutions capable of satisfying and maintaining the corporate interest of my employer and customers. </br>
- 🌱 I’m currently learning JavaScript-(React) and improving my HTML, CSS skills. </br>
+ 🌱 I’m currently learning JavaScript-(React), TypeScript and improving my HTML, CSS skills. </br>
  👯 I’m looking to collaborate on Open source projects </br>
  📫 How to reach me: ayodelaustinab@gmail.com
  
