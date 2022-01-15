@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey wait 👋, don't go 
 
 <!--
 **babboe1/babboe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-To attain and maintain a high degree of professionalism and contribute significantly to the organizational growth and development through diverse skills while providing innovative solutions capable of satisfying and maintaining the corporate interest of my employer and customers. </br>
+It is my desire to attain and maintain a high degree of professionalism and contribute significantly to the organizational growth and development through diverse skills while providing innovative solutions capable of satisfying and maintaining the corporate interest of my employer and customers. </br>
  🌱 I’m currently learning JavaScript-(React), TypeScript and improving my HTML, CSS skills. </br>
  👯 I’m looking to collaborate on Open source projects </br>
  📫 How to reach me: ayodelaustinab@gmail.com </br>
