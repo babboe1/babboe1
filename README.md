@@ -20,6 +20,7 @@ It is my desire to attain and maintain a high degree of professionalism and cont
  📫 How to reach me <br />
     Email: babboecodes@gmail.com </br>
     LinkedIn: [Ayodele Abiola](https://www.twitter.com/ausstinab)<br />
+    Twitter: 
 ⚡ Fun fact: I love watching anime (Japanese movies) series😌😌
  
  
