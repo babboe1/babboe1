@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 It is my desire to attain and maintain a high degree of professionalism and contribute significantly to the organizational growth and development through diverse skills while providing innovative solutions capable of satisfying and maintaining the corporate interest of my employer and customers. </br>
- 🌱 I’m currently learning JavaScript-(React), TypeScript and improving my HTML, CSS skills. </br>
- 👯 I’m looking to collaborate on Open source projects </br>
- 📫 How to reach me <br />
+ ##🌱 I’m currently learning JavaScript-(React), TypeScript and improving my HTML, CSS skills. </br>
+ ##👯 I’m looking to collaborate on Open source projects </br>
+ ##📫 How to reach me <br />
     Email: babboecodes@gmail.com </br>
     LinkedIn: [Ayodele Abiola](https://www.twitter.com/ausstinab)<br />
     Twitter: [@ausstinab](https://www.twitter.com/ausstinab) <br />
-⚡ Fun fact: I love watching anime (Japanese movies) series😌😌
+ ##⚡ Fun fact: I love watching anime (Japanese movies) series😌😌
  
  
