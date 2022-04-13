@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 It is my desire to attain and maintain a high degree of professionalism and contribute significantly to the organizational growth and development through diverse skills while providing innovative solutions capable of satisfying and maintaining the corporate interest of my employer and customers. </br>
 🌱 I’m currently learning JavaScript-(React), TypeScript and improving my HTML, CSS skills. </br>
  👯 I’m looking to collaborate on Open source projects </br>
-  📫 How to reach me <br />
-  Below are my contact Info
+  ### 📫 How to reach me <br />
+  Below are my contact Info <br/>
     Email: babboecodes@gmail.com </br>
     LinkedIn: [Ayodele Abiola](https://www.twitter.com/ausstinab)<br />
     Twitter: [@ausstinab](https://www.twitter.com/ausstinab) <br />
