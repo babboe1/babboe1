@@ -23,6 +23,7 @@ I am babboeCodes😁 and It is my desire to attain and maintain a high degree of
     👔LinkedIn: [Ayodele Abiola](https://www.twitter.com/ausstinab)<br />
     🕊Twitter: [@ausstinab](https://www.twitter.com/ausstinab) <br />
     
- ⚡ Fun fact: I love watching anime (Japanese movies) series😌😌
+ ⚡ Fun fact <br />
+ I love watching anime (Japanese movies) series😌😌
  
  
