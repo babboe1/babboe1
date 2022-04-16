@@ -24,6 +24,6 @@ I am babboeCodes😁 and It is my desire to attain and maintain a high degree of
     🕊Twitter: [@ausstinab](https://www.twitter.com/ausstinab) <br />
     
  ### ⚡ Fun fact <br />
- I love watching anime (Japanese movies) series😌😌
+ I love anime (Japanese movies) series😌😌
  
  
