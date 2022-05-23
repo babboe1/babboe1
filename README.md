@@ -20,7 +20,7 @@ I am babboeCodes😁 and It is my desire to attain and maintain a high degree of
   ### 📫 How to reach me <br />
   Below are my contact Info ☎<br/>
     📩Email: babboecodes@gmail.com </br>
-    👔LinkedIn: [Ayodele Abiola](https://www.twitter.com/ausstinab)<br />
+    👔LinkedIn: [Ayodele Abiola]([https://www.twitter.com/ausstinab](https://www.linkedin.com/in/abiola-ayodele-5a10651b7/))<br />
     🕊Twitter: [@ausstinab](https://www.twitter.com/ausstinab) <br />
     
  ### ⚡ Fun fact <br />
