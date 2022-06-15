@@ -30,5 +30,7 @@ I am babboeCodes😁 and It is my desire to attain and maintain a high degree of
  My Love for chess is second only to coding😎😎 <br/>
  I love seeing Anime (Japanese movies) series and reading manga😌😌
  
+ ## ⚡ 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚌𝚘𝚘𝚕 𝚝𝚑𝚒𝚗𝚐𝚜 𝚝𝚑𝚊𝚝 𝚠𝚎𝚗𝚝 𝚒𝚗𝚝𝚘 𝚝𝚑𝚒𝚜 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚁𝙴𝙰𝙳𝙼𝙴
+- 𝚃𝚢𝚙𝚎𝙸𝚝, 𝚅𝚞𝚎 𝙿𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝙹𝚜 𝚊𝚗𝚍 𝚅𝚞𝚎.𝚓𝚜 𝚏𝚘𝚛 𝚝𝚑𝚎 𝚝𝚢𝚙𝚒𝚗𝚐 𝚒𝚗𝚝𝚛𝚘: [𝚑𝚝𝚝𝚙𝚜://𝚌𝚘𝚍𝚎𝚜𝚊𝚗𝚍𝚋𝚘𝚡.𝚒𝚘/𝚜/𝚛𝚎𝚊𝚍𝚖𝚎-𝚒𝚗𝚝𝚛𝚘𝚐𝚒𝚏-𝟿𝚏𝚓𝚘𝟻](https://codesandbox.io/s/readme-introgif-9fjo5) 
  
  
