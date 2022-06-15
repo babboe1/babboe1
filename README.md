@@ -1,5 +1,5 @@
 ### Hey wait 👋, don't go✌.
-[<img src="https://chipper-cupcake-9d5a3f.netlify.app/" alt="My Intro" title="👋 Hi there! I'm babboeCodes"/>](https://babboe1.github.io/)
+[<img src="./Intro.gif" alt="My Intro" title="👋 Hi there! I'm babboeCodes"/>](https://babboe1.github.io/)
 <!--
 **babboe1/babboe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
