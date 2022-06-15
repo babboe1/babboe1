@@ -1,5 +1,5 @@
 ### Hey wait!!! 👋, don't go✌.
-[<img src="./Intro.gif" alt="My Intro" title="👋 Hi there! I'm babboeCodes"/>](https://babboe1.github.io/)]
+[<img src="./Intro.gif" alt="My Intro" title="👋 Hi there! I'm babboeCodes"/>](https://babboe1.github.io/)
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=babboe1.babboeCodes&color=00df00)
 
