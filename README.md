@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## I am babboeCodes😁 and It is my desire to attain and maintain a high degree of professionalism and contribute significantly to the organizational growth and development through diverse skills while providing innovative solutions capable of satisfying and maintaining the corporate interest of my employer and customers..</br>
-🌱 I’m currently learning React.js, TypeScript and improving my HTML, CSS skills and JavaScript knowledge. </br>
  👯 I’m looking to collaborate on Open source projects </br>
   ### 📫 How to reach me <br />
   Below are my contact Info ☎<br/>
